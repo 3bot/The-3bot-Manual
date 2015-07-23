@@ -1,13 +1,11 @@
 # Tasks
-*Do One Thing and Do It Well*
-
-Tasks are the smallest parts, basically scripts, and they shoud folow this UNIX philosophy. 
+Tasks are the smallest parts, basically scripts, and they shoud follow the *Do One Thing and Do It Well* UNIX philosophy. 
 
 # Build-in Tasks
 
 # Read Only Task
 
-Only Team-Admins can edit Read Only tasks.
+* Only Team-Admins can edit Read Only tasks.
  
 
 ## Reserved identifiers 
