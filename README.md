@@ -1,11 +1,28 @@
 The 3bot Manual
 ===============
 
+
+3bot is an open-source software platform backed by arteria GmbH to build, configure and perform.
+To "perform" is the general term for remote executing tasks by running workflows.
+These could be configuration management (CM), continuous integration (CI), continuous delivery (CD) or application deployment
+tasks but also allows you to re-use your shell scripts in a fast and efficient way from a central point.
+
+## 3bot in the cloud
+
+There is a cloud version of 3bot that can be found [here](http://my.3bot.io). Ask for an invitee - it's free!
+
+
+## Setup/Installation
+
+See [QUICKSTART.md](https://github.com/3bot/3bot/blob/master/QUICKSTART.md) in the platform repository for more information how to set up your own instance of 3bot.
+
+
+
 # Team
-# Member/User
-# Admin
-Admins are regular team members but has extended privileges. 
-* ..
+## Team Members
+## Team Admins
+Team Admins are regular Team Members but has extended privileges. 
+* Only Team Admins can edit Read Only tasks.
 * ..
 
 
