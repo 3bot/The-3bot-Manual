@@ -11,3 +11,4 @@ This how to applies to the [3bot cloud](http://my.3bot.io) and shows how to down
 * Second prompt, choose your image size, eg 200 for 200x200 pixel.
 * Now the workflow and it's tasks will be executed on the worker. You will find a /tmp/dummy.jpg on your disk.
 * Standard out will be captured as console output, stderr as error stream. ![](https://www.arteria.ch/media/imgbucket/Screen_Shot_2015-07-15_at_13.35.34.png) 
+* Now [invite your teammates](https://github.com/3bot/The-3bot-Manual#add-a-member-to-a-team) and [all other interested](https://github.com/3bot/The-3bot-Manual#create-a-new-team-for-someone). 
