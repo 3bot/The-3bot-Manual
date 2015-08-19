@@ -37,7 +37,7 @@ Accept the invitation and create your account. Once you're in you're part of the
  
 Next will be to [add/register a worker](https://my.3bot.io/worker/add/) on the 3bot platform (pre- and post task are optional) and to [install a worker](https://github.com/3bot/3bot-worker/blob/master/README.md) on a server or on your laptop. The worker must be accessible from the web, please update the firewall accordantly.    
 
-Once done, let's [Hello World]().
+Once the worker is up and running, check out the [Hello World](https://github.com/3bot/The-3bot-Manual/blob/master/hello-world.md) where you learn how to setup [tasks](https://github.com/3bot/The-3bot-Manual/blob/master/task.md) and [workflows](https://github.com/3bot/The-3bot-Manual/blob/master/workflow.md).
 
 
 ### Inviting others and create more teams 
