@@ -34,8 +34,11 @@ There is a cloud version of 3bot that can be found [here](http://my.3bot.io). [A
 ### Once You Got Invited
 
 Accept the invitation and create your account. Once you're in you're part of the global 3bot team as well. There you can clone (steal, get inspired, .. by) tasks. 
+ 
+Next will be to [add/register a worker](https://my.3bot.io/worker/add/) on the 3bot platform (pre- and post task are optional) and to [install a worker](https://github.com/3bot/3bot-worker/blob/master/README.md) on a server or on your laptop. The worker must be accessible from the web, please update the firewall accordantly.    
 
-Next will be to [setup a worker](https://github.com/3bot/3bot-worker/blob/master/README.md) on a server or on your laptop. The worker must be accessible from the web, please update the firewall accordantly.    
+Once done, let's [Hello World]().
+
 
 ### Inviting others and create more teams 
 
