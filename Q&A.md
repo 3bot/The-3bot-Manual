@@ -1,3 +1,8 @@
+# Q: Can I use 3bot with Github or Bitbucket?
+Yes, if you're using the [3bot cloud platform](https://my.3bot.io) everything is ready to go. Check the "hooks" tab on the workflow and set it up for external services. If you're running your own instance, check the [3bot-hooks](https://github.com/3bot/3bot-hook) module. 
+
+Once set up, 3bot will perform (execute the workflow) when you push to the repostory connected.
+
 # Q: Is 3bot secure?
 Short answer: Yes. 
 
